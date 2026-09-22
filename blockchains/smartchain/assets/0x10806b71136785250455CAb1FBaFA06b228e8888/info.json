@@ -1,11 +1,11 @@
 {
-    "name": "FAKE Tether",
+    "name": "Tether ",
     "type": "BEP20",
-    "symbol": "FAKE ՍSDT",
+    "symbol": "ՍSDT",
     "decimals": 18,
-    "description": "This token is malicious do not interact",
+    "description": "This token is",
     "website": "https://bscscan.com/token/0x10806b71136785250455CAb1FBaFA06b228e8888",
     "explorer": "https://bscscan.com/token/0x10806b71136785250455CAb1FBaFA06b228e8888",
-    "status": "spam",
+    "status": "active",
     "id": "0x10806b71136785250455CAb1FBaFA06b228e8888"
 }
