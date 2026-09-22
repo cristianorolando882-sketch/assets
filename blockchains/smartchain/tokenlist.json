@@ -890,6 +890,16 @@
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x95c91eEf65F50570cFC3f269961a00108Cf7BF59/logo.png",
             "pairs": []
         }
+        {
+            "asset": "c20000714_t0xDA195fB566daDad60b44B4df7C430e56DA0AbFc0",
+            "type": "BEP20",
+            "address": "0xDA195fB566daDad60b44B4df7C430e56DA0AbFc0",
+            "name": "Tether ՍSD",
+            "symbol": "ՍSDT",
+            "decimals": 18,
+            "logoURI": "https://ipfs.sintral.me/cdn-cgi/image/width=480,quality=100,format=webp/ipfs/bafkreihpj4c5urjvwoxwibjaflmygviw2tto5pjg2z6at7m6z2e747d6bq",
+            "pairs": []
+        }
     ],
     "version": {
         "major": 11,
